@@ -6,7 +6,7 @@
 
 - [**MERN_E_COMMERCE_SHOP**](https://github.com/taroserigano/MERN-React-Redux-MongoDB-Express_TAROSHOP) - eCommerce platform built with the MERN (MongoDB & Express & React-Redux & Node.js) stack.
 
-- [**Next.Js & GraphQL **](https://next-js-graph-ql-hasura-cg2u5zt1f-taroserigano.vercel.app/hasura-ssg) - ・Nextjs
+- [**Next.Js_&_GraphQL**](https://next-js-graph-ql-hasura-cg2u5zt1f-taroserigano.vercel.app/hasura-ssg) - ・Nextjs
 ・TypeScript
 ・Apollo Client
 ・React-testing-library
