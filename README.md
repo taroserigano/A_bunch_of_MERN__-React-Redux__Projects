@@ -2,7 +2,7 @@
 
 ### Links to the repos are as follows👌:
 
-- [**Serigano Job Center**](https://github.com/taroserigano/MERN-Job-Management-App) - MERN (MongoDB & Express & React-Redux & Node.js) stack app that lets you manage and organize job interview process.
+- [**MERN Job Management_App**](https://github.com/taroserigano/MERN-Job-Management-App) - MERN (MongoDB & Express & React-Redux & Node.js) stack app that lets you manage and organize job interview process.
 
 - [**MERN_E_COMMERCE_SHOP**](https://github.com/taroserigano/MERN-React-Redux-MongoDB-Express_TAROSHOP) - eCommerce platform built with the MERN (MongoDB & Express & React-Redux & Node.js) stack.
 
