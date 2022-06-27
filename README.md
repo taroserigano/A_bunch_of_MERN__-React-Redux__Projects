@@ -6,8 +6,6 @@
 
 - [**MERN_E_COMMERCE_SHOP**](https://github.com/taroserigano/MERN-React-Redux-MongoDB-Express_TAROSHOP) - eCommerce platform built with the MERN (MongoDB & Express & React-Redux & Node.js) stack.
 
-https://github.com/taroserigano/React-Ticket-Service-App-2022
-
 - [**MERN_Ticket_Support_App_Redux_Toolkit**](https://github.com/taroserigano/React-Ticket-Service-App-2022) - Ticket Support System App that use the latest Redux-Toolkit with the MERN (MongoDB & Express & React-Redux & Node.js) stack.
 
 - [**Next.Js_&_GraphQL**](https://next-js-graph-ql-hasura-cg2u5zt1f-taroserigano.vercel.app/hasura-ssg) - ・Nextjs
