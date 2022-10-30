@@ -1,6 +1,6 @@
 # MERN_React_Redux_Projects
 
-
+<p align="center" > <img src="https://github.com/taroserigano/taroserigano/blob/master/mern.jpg"> </p>
 
 ### Please check out the links below for MERN projects repos👌:
 
