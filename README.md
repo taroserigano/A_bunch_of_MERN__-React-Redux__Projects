@@ -1,5 +1,7 @@
 # MERN_React_Redux_Projects
 
+## Below are the Mern and TypeScript projects
+
 ### Links to the repos are as follows👌:
 
 - [**MERN Job Management_App**](https://github.com/taroserigano/MERN-Job-Management-App) - MERN (MongoDB & Express & React-Redux & Node.js) stack app that lets you manage and organize job interview process.
