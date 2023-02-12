@@ -12,6 +12,8 @@
 
 - [**MERN_Ticket_Support_App_Redux_Toolkit**](https://github.com/taroserigano/React-Ticket-Service-App-2022) - Ticket Support System App that use the latest Redux-Toolkit with the MERN (MongoDB & Express & React-Redux & Node.js) stack.
 
+
+- [**Amazon Clone MERN App**](https://github.com/taroserigano/MERN-Amazon-Clone-App) - Ticket Support System App that use the latest Redux-Toolkit with the MERN (MongoDB & Express & React-Redux & Node.js) stack.
 - [**Next.Js_&_GraphQL**](https://github.com/taroserigano/nextJS-GraphQL-Hasura) - ・Nextjs
 ・TypeScript
 ・Apollo Client
